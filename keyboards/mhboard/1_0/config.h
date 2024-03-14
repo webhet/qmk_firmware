@@ -56,3 +56,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define I2C1_TIMINGR_SCLL 26U
 #define I2C1_SCL_PAL_MODE 1
 #define I2C1_SDA_PAL_MODE 1
+
+/* unicode settings */
+#define UNICODE_SELECTED_MODES UNICODE_MODE_LINUX, UNICODE_MODE_WINCOMPOSE
